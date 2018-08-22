@@ -1,3 +1,3 @@
-this translation of akka doc. 
+this is a translation of akka doc. 
 
                 -- hello world
